@@ -1,0 +1,4 @@
+name: DisableBats
+version: '1.0'
+main: me.primimity.disableBats.Main
+api-version: '1.21'
