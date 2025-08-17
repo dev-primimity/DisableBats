@@ -1,4 +1,9 @@
-name: DisableBats
-version: '1.0'
 main: me.primimity.disableBats.Main
+
+name: DisableBats
+version: 1.0
+description: 'Disallows bats from spawning naturally in the world.'
 api-version: '1.21'
+
+author: Primimity
+website: https://discord.com/users/primimity
